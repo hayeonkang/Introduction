@@ -1,17 +1,18 @@
 # Introduction
  자기소개서
 
-## Name
+## Name.
 강하연
 
-## Age
+## Age.
 21 . F
 
-### Hobby
+### Hobby.
 - 음악 감상
 - 영화, 드라마 시청
 - 친구들과 여행
 
-### Goal
+### Goal.
 1. 자격증 취득
 1. 토익 공부
+1. 코딩 공부
